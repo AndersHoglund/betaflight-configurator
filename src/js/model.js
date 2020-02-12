@@ -21,7 +21,7 @@ const mixerList = [
     { name: 'V-tail Quad',      pos: 17, model: 'quad_vtail', image: 'vtail_quad',   motors: 4, servos: false },
     { name: 'Hex H',            pos: 7,  model: 'custom',     image: 'custom',       motors: 6, servos: false },
     { name: 'PPM to SERVO',     pos: 22, model: 'custom',     image: 'custom',       motors: 0, servos: true },
-    { name: 'Dualcopter',       pos: 15, model: 'custom',     image: 'custom',       motors: 2, servos: true },
+    { name: 'Dualcopter',       pos: 15, model: 'custom',     image: 'dualcopter',   motors: 2, servos: true },
     { name: 'Singlecopter',     pos: 14, model: 'custom',     image: 'custom',       motors: 1, servos: true },
     { name: 'A-tail Quad',      pos: 18, model: 'quad_atail', image: 'atail_quad',   motors: 4, servos: false },
     { name: 'Custom',           pos: 23, model: 'custom',     image: 'custom',       motors: 0, servos: false },
